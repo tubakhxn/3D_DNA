@@ -1,0 +1,7 @@
+{
+  "length": 3000000,
+  "features": [
+    {"type": "gene", "id": "g1", "name": "gene1", "start": 100, "end": 900},
+    {"type": "gene", "id": "g2", "name": "gene2", "start": 1200, "end": 2300}
+  ]
+}

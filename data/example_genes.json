@@ -1,0 +1,6 @@
+{
+  "genes": [
+    {"id": "gene1", "name": "BRCA1", "start": 100, "end": 900, "description": "Breast cancer type 1 susceptibility protein."},
+    {"id": "gene2", "name": "TP53", "start": 1200, "end": 2300, "description": "Tumor protein p53."}
+  ]
+}

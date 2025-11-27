@@ -1,0 +1,9 @@
+opencv-python>=4.7.0
+mediapipe>=0.10.0
+# pin numpy to a broadly compatible 1.24.x series
+numpy>=1.24,<2.0
+PyOpenGL>=3.1.6
+pygame>=2.1.0
+# use the latest pyrr available on PyPI compatible with many Python versions
+pyrr==0.10.3
+Pillow>=9.0.0
